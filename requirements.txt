@@ -1,0 +1,13 @@
+django
+django-ninja
+gunicorn
+django-heroku
+dj-database-url
+pydantic
+django-cors-headers
+django-oauth-toolkit
+python-dateutil
+django-admin-tools
+django-nvd3
+django-bower
+django-admin-charts
